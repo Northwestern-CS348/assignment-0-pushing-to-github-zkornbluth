@@ -18,3 +18,4 @@ Your task for this (mock) assignment is to modify the function in student_code.p
 
 As with all future assignments, **only code in student_code.py will be used for grading**. Please ensure that all code / data of your work is contained in the file. Please only use libraries that are available for a bare-bone Python 3.7 installation. Please do not remove or change the signature of any classes / functions in the file. You are free to add new functions and/or classes. 
 
+Some tutorials of git: [Git for Everyone](https://thenewstack.io/tutorial-git-for-absolutely-everyone/) / [Resources from GitHub](https://try.github.io/) / [Git SCM](https://git-scm.com/docs/gittutorial)
